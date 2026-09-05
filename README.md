@@ -29,6 +29,7 @@ This repository contains my solutions to LeetCode problems.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/shubhanshu-18/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/shubhanshu-18/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/shubhanshu-18/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/shubhanshu-18/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -47,5 +48,10 @@ This repository contains my solutions to LeetCode problems.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/shubhanshu-18/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubhanshu-18/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/shubhanshu-18/LeetCode/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->

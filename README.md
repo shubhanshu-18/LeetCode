@@ -57,6 +57,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/shubhanshu-18/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubhanshu-18/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [3871-count-commas-in-range-ii](https://github.com/shubhanshu-18/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |

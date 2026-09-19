@@ -27,6 +27,7 @@ This repository contains my solutions to LeetCode problems.
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhanshu-18/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/shubhanshu-18/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubhanshu-18/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shubhanshu-18/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ This repository contains my solutions to LeetCode problems.
 | [1004-max-consecutive-ones-iii](https://github.com/shubhanshu-18/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubhanshu-18/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubhanshu-18/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shubhanshu-18/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shubhanshu-18/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Array
 | Problem Name | Difficulty |

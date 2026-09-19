@@ -35,6 +35,7 @@ This repository contains my solutions to LeetCode problems.
 | [1004-max-consecutive-ones-iii](https://github.com/shubhanshu-18/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubhanshu-18/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubhanshu-18/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shubhanshu-18/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@ This repository contains my solutions to LeetCode problems.
 | [0930-binary-subarrays-with-sum](https://github.com/shubhanshu-18/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shubhanshu-18/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubhanshu-18/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shubhanshu-18/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,4 +70,8 @@ This repository contains my solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/shubhanshu-18/LeetCode/tree/main/0189-rotate-array/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shubhanshu-18/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 <!---LeetCode Topics End-->

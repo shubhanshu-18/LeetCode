@@ -8,6 +8,7 @@ This repository contains my solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhanshu-18/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/shubhanshu-18/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/shubhanshu-18/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/shubhanshu-18/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/shubhanshu-18/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -17,11 +18,13 @@ This repository contains my solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhanshu-18/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/shubhanshu-18/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubhanshu-18/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhanshu-18/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/shubhanshu-18/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/shubhanshu-18/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/shubhanshu-18/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/shubhanshu-18/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |

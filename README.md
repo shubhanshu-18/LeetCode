@@ -52,6 +52,7 @@ This repository contains my solutions to LeetCode problems.
 | [0189-rotate-array](https://github.com/shubhanshu-18/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/shubhanshu-18/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/shubhanshu-18/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/shubhanshu-18/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/shubhanshu-18/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/shubhanshu-18/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/shubhanshu-18/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -63,6 +64,7 @@ This repository contains my solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shubhanshu-18/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/shubhanshu-18/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shubhanshu-18/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -81,6 +83,7 @@ This repository contains my solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/shubhanshu-18/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/shubhanshu-18/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0567-permutation-in-string](https://github.com/shubhanshu-18/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -90,4 +93,16 @@ This repository contains my solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/shubhanshu-18/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/shubhanshu-18/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/shubhanshu-18/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/shubhanshu-18/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->

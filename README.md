@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhanshu-18/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/shubhanshu-18/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/shubhanshu-18/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/shubhanshu-18/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhanshu-18/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhanshu-18/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/shubhanshu-18/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
@@ -23,6 +24,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhanshu-18/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/shubhanshu-18/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0387-first-unique-character-in-a-string](https://github.com/shubhanshu-18/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhanshu-18/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhanshu-18/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/shubhanshu-18/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
@@ -92,6 +94,7 @@ This repository contains my solutions to LeetCode problems.
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shubhanshu-18/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/shubhanshu-18/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -105,4 +108,8 @@ This repository contains my solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shubhanshu-18/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shubhanshu-18/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->

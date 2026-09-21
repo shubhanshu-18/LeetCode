@@ -51,6 +51,7 @@ This repository contains my solutions to LeetCode problems.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/shubhanshu-18/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0189-rotate-array](https://github.com/shubhanshu-18/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/shubhanshu-18/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/shubhanshu-18/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -84,12 +85,14 @@ This repository contains my solutions to LeetCode problems.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/shubhanshu-18/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0189-rotate-array](https://github.com/shubhanshu-18/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/shubhanshu-18/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0567-permutation-in-string](https://github.com/shubhanshu-18/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/shubhanshu-18/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shubhanshu-18/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -112,4 +115,12 @@ This repository contains my solutions to LeetCode problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shubhanshu-18/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/shubhanshu-18/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/shubhanshu-18/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
